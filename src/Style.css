@@ -1,0 +1,23 @@
+.userdate1, .userdate2 {
+    text-align: justify;
+    padding-top: 40px;
+    margin-left: 37%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding-left: 2%;
+    border: 1px solid rgb(0, 162, 255);
+    border-radius: 10px;
+    width: 330px;
+    line-height: 10px;
+  }
+  
+  .mylink, .uname{
+  text-decoration: none;
+  color: rgb(0, 162, 255);
+  }
+  .image{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
